@@ -9,3 +9,4 @@ https://www.epsilontheory.com/the-green-protocol-a-new-vision-for-crypto-pt-2/
 
 * Decentralized, auditable database of physical objects which abstract into "tokens-of-good" NFT's (like trees under the "One Billion Trees" project-of-good proposal).
 * Widely available phone (or other hardware) app for photographing, categorizing, timestamping, geostamping and uploading tree data to the Green Protocol ledger.
+* Marketing collateral including the elevator pitch, logo(s), prop deck, etc.
